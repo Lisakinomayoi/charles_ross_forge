@@ -12,3 +12,7 @@
 
 ## Association
 
+## blogs table
+| Column             | Type   | Options                   | 
+| ------------------ | ------ | ------------------------- |
+| 
